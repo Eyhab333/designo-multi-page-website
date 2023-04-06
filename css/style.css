@@ -579,7 +579,7 @@ li {
   flex-direction: column;
   gap: 3.2rem;
   background-color: var(--color-peach);
-  background-image: url("../../assets/shared/desktop/bg-pattern-call-to-action.svg");
+  background-image: url("../assets/shared/desktop/bg-pattern-call-to-action.svg");
   background-repeat: no-repeat;
   background-position: center -15%;
 }
@@ -678,7 +678,7 @@ li {
   }
 }
 .home-hero__img-wrapper {
-  background-image: url("../../assets/home/desktop/image-hero-phone.png");
+  background-image: url("../assets/home/desktop/image-hero-phone.png");
   background-repeat: no-repeat;
   background-position: center -7rem;
   align-self: stretch;
@@ -698,7 +698,7 @@ li {
   display: block;
   height: 64rem;
   width: 64rem;
-  background-image: url("../../assets/home/desktop/bg-pattern-hero-home.svg");
+  background-image: url("../assets/home/desktop/bg-pattern-hero-home.svg");
   top: 50%;
   transform: translateY(-50%);
 }
@@ -821,7 +821,7 @@ li {
   display: block;
   width: 20.2rem;
   height: 20.2rem;
-  background-image: url("../../assets/shared/desktop/bg-pattern-small-circle.svg");
+  background-image: url("../assets/shared/desktop/bg-pattern-small-circle.svg");
   background-repeat: no-repeat;
 }
 .feature__img-2::before {
@@ -854,7 +854,7 @@ li {
   position: absolute;
   width: 1006px;
   height: 594px;
-  background-image: url("../../assets/shared/desktop/bg-pattern-leaf.svg");
+  background-image: url("../assets/shared/desktop/bg-pattern-leaf.svg");
 }
 @media (min-width: 992px) {
   .home-main::before, .home-main::after {
@@ -887,15 +887,15 @@ li {
 }
 
 .web-design-banner {
-  background-image: url("../../assets/web-design/desktop/bg-pattern-intro-web.svg");
+  background-image: url("../assets/web-design/desktop/bg-pattern-intro-web.svg");
 }
 
 .app-design-banner {
-  background-image: url("../../assets/app-design/desktop/bg-pattern-intro-app.svg");
+  background-image: url("../assets/app-design/desktop/bg-pattern-intro-app.svg");
 }
 
 .graphic-design-banner {
-  background-image: url("../../assets/graphic-design/desktop/bg-pattern-intro-graphic.svg");
+  background-image: url("../assets/graphic-design/desktop/bg-pattern-intro-graphic.svg");
 }
 
 .service-main::before {
@@ -906,7 +906,7 @@ li {
   left: 0;
   width: 1006px;
   height: 594px;
-  background-image: url("../../assets/shared/desktop/bg-pattern-leaf.svg");
+  background-image: url("../assets/shared/desktop/bg-pattern-leaf.svg");
   z-index: -1;
 }
 @media (min-width: 992px) {
@@ -980,7 +980,7 @@ li {
 
 .about-hero-article__text {
   background-color: var(--color-peach);
-  background-image: url("../../assets/about/mobile/bg-pattern-hero-about-mobile.svg");
+  background-image: url("../assets/about/mobile/bg-pattern-hero-about-mobile.svg");
   background-repeat: no-repeat;
   background-position: right -13rem;
   width: 100%;
@@ -993,7 +993,7 @@ li {
     padding-block: 6.4rem;
     padding-inline: 5.8rem;
     grid-gap: 3.2rem;
-    background-image: url("../../assets/about/desktop/bg-pattern-hero-about-desktop.svg");
+    background-image: url("../assets/about/desktop/bg-pattern-hero-about-desktop.svg");
     background-position: left bottom;
     background-size: 100%;
   }
@@ -1015,7 +1015,7 @@ li {
 
 @media (min-width: 992px) {
   .about-main {
-    background-image: url("../../assets/shared/desktop/bg-pattern-leaf.svg");
+    background-image: url("../assets/shared/desktop/bg-pattern-leaf.svg");
     background-repeat: no-repeat;
     background-position-x: 0;
     background-position-y: 32rem;
@@ -1024,7 +1024,7 @@ li {
 
 .about-article-block__text {
   background-color: var(--color-lighter-peach);
-  background-image: url("../../assets/shared/desktop/bg-pattern-two-circles.svg");
+  background-image: url("../assets/shared/desktop/bg-pattern-two-circles.svg");
   background-repeat: no-repeat;
   background-position: left bottom;
   padding-inline: 2.4rem;
@@ -1080,7 +1080,7 @@ li {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("../../assets/shared/desktop/bg-pattern-small-circle.svg");
+  background-image: url("../assets/shared/desktop/bg-pattern-small-circle.svg");
   background-repeat: no-repeat;
 }
 .locations__item-img--1::before {
@@ -1098,7 +1098,7 @@ li {
 .location__details {
   flex-grow: 1;
   background-color: var(--color-lighter-peach);
-  background-image: url("../../assets/shared/desktop/bg-pattern-two-circles.svg");
+  background-image: url("../assets/shared/desktop/bg-pattern-two-circles.svg");
   background-repeat: no-repeat;
   background-position: bottom;
   display: flex;
@@ -1133,7 +1133,7 @@ li {
 
 @media (min-width: 992px) {
   .contact-main {
-    background-image: url("../../assets/shared/desktop/bg-pattern-leaf.svg");
+    background-image: url("../assets/shared/desktop/bg-pattern-leaf.svg");
     background-repeat: no-repeat;
     background-position: right 130%;
   }
@@ -1143,14 +1143,14 @@ li {
   background-color: var(--color-peach);
   padding-block: 7.2rem;
   padding-inline: 2.4rem;
-  background-image: url("../../assets/contact/mobile/bg-pattern-hero-contact-mobile.svg");
+  background-image: url("../assets/contact/mobile/bg-pattern-hero-contact-mobile.svg");
   background-repeat: no-repeat;
   grid-gap: 4.8rem;
   justify-items: center;
 }
 @media (min-width: 768px) {
   .contact-form-block {
-    background-image: url("../../assets/contact/desktop/bg-pattern-hero-desktop.svg");
+    background-image: url("../assets/contact/desktop/bg-pattern-hero-desktop.svg");
     background-position: -1rem bottom;
     grid-gap: 4rem;
   }
