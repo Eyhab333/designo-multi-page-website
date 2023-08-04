@@ -6,7 +6,7 @@
   --color-lighter-peach: hsl(14, 76%, 97%);
   --color-dark-grey: hsl(264, 5%, 20%);
   --color-light-grey: hsl(210, 17%, 95%);
-  --ff-primary: "Cairo", "Plus Jakarta Sans", sans-serif;
+  --ff-primary: 'Jost', sans-serif;
   --fs-14: 1.4rem;
   --fs-15: 1.5rem;
   --fs-16: 1.6rem;
